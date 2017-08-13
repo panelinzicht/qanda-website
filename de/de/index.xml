@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qanda DE</title>
-    <link>https://qanda.alexdegroot.net/de/</link>
-    <description>Recent content on Qanda DE</description>
+    <title>Home on Qanda DE</title>
+    <link>https://qanda.alexdegroot.net/de/de/</link>
+    <description>Recent content in Home on Qanda DE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2017 16:57:49 +0200</lastBuildDate>
     
-	<atom:link href="https://qanda.alexdegroot.net/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://qanda.alexdegroot.net/de/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

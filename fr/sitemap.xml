@@ -8,7 +8,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://qanda.alexdegroot.net/terms-and-conditions/"
+                href="https://qanda.alexdegroot.net/en/terms-and-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -28,28 +28,8 @@
   </url>
   
   <url>
-    <loc>https://qanda.alexdegroot.net/fr/</loc>
+    <loc>https://qanda.alexdegroot.net/fr/fr/</loc>
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qanda.alexdegroot.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/"
-                />
   </url>
   
   <url>
@@ -74,6 +54,32 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://qanda.alexdegroot.net/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qanda.alexdegroot.net/fr/</loc>
+    <lastmod>2017-08-13T16:57:49+02:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qanda.alexdegroot.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/"
                 />
   </url>
   
