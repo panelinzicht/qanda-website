@@ -3,102 +3,102 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://panelinzicht.github.io/qanda-website/fr/termes-et-conditions/</loc>
+    <loc>https://qanda.alexdegroot.net/fr/termes-et-conditions/</loc>
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://panelinzicht.github.io/qanda-website/terms-and-conditions/"
+                href="https://qanda.alexdegroot.net/terms-and-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://panelinzicht.github.io/qanda-website/de/gesch%C3%A4ftsbedingungen/"
+                href="https://qanda.alexdegroot.net/de/gesch%C3%A4ftsbedingungen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://panelinzicht.github.io/qanda-website/nl/voorwaarden/"
+                href="https://qanda.alexdegroot.net/nl/voorwaarden/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://panelinzicht.github.io/qanda-website/fr/termes-et-conditions/"
+                href="https://qanda.alexdegroot.net/fr/termes-et-conditions/"
                 />
   </url>
   
   <url>
-    <loc>https://panelinzicht.github.io/qanda-website/fr/</loc>
+    <loc>https://qanda.alexdegroot.net/fr/</loc>
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://panelinzicht.github.io/qanda-website/"
+                href="https://qanda.alexdegroot.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://panelinzicht.github.io/qanda-website/de/"
+                href="https://qanda.alexdegroot.net/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://panelinzicht.github.io/qanda-website/nl/"
+                href="https://qanda.alexdegroot.net/nl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://panelinzicht.github.io/qanda-website/fr/"
+                href="https://qanda.alexdegroot.net/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://panelinzicht.github.io/qanda-website/fr/categories/</loc>
+    <loc>https://qanda.alexdegroot.net/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://panelinzicht.github.io/qanda-website/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://panelinzicht.github.io/qanda-website/de/categories/"
+                href="https://qanda.alexdegroot.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://panelinzicht.github.io/qanda-website/nl/categories/"
+                href="https://qanda.alexdegroot.net/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://panelinzicht.github.io/qanda-website/fr/categories/"
+                href="https://qanda.alexdegroot.net/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://panelinzicht.github.io/qanda-website/fr/tags/</loc>
+    <loc>https://qanda.alexdegroot.net/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://panelinzicht.github.io/qanda-website/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://panelinzicht.github.io/qanda-website/de/tags/"
+                href="https://qanda.alexdegroot.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl"
-                href="https://panelinzicht.github.io/qanda-website/nl/tags/"
+                href="https://qanda.alexdegroot.net/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://panelinzicht.github.io/qanda-website/fr/tags/"
+                href="https://qanda.alexdegroot.net/fr/tags/"
                 />
   </url>
   
