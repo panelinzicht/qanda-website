@@ -57,6 +57,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nl"
                 href="https://qanda.alexdegroot.net/nl/categories/"
                 />
@@ -64,11 +69,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://qanda.alexdegroot.net/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,6 +82,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="nl"
                 href="https://qanda.alexdegroot.net/nl/tags/"
                 />
@@ -89,11 +94,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://qanda.alexdegroot.net/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
