@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://barber-winnie-21502.netlify.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://barber-winnie-21502.netlify.com/fr/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://barber-winnie-21502.netlify.com/nl/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://barber-winnie-21502.netlify.com/de/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>
