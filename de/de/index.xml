@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Qanda DE</title>
+    <title>Des on Qanda DE</title>
     <link>https://qanda.alexdegroot.net/de/de/</link>
-    <description>Recent content in Home on Qanda DE</description>
+    <description>Recent content in Des on Qanda DE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2017 16:57:49 +0200</lastBuildDate>
@@ -22,6 +22,15 @@ Diese Forschung ist eine Zusammenarbeit zwischen: Q &amp;amp; A Research &amp;am
 Meinung Surveyors ist ein Warenzeichen von Insight - Panel BV, bei der Handelskammer unter der Nummer 56080239 registriert.
 Q &amp;amp; A Research &amp;amp; Consultancy bei der Handelskammer unter der Nummer 65029496
 In einer Studie, werden Sie für Ihre Zeit Tickets (nicht immer) für Ihre Teilnahme erhalten. Diese Tickets werden durch die Q &amp;amp; A-Panel angeboten.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://qanda.alexdegroot.net/de/datenschutzerkl%C3%A4rung/</link>
+      <pubDate>Sun, 13 Aug 2017 16:57:49 +0200</pubDate>
+      
+      <guid>https://qanda.alexdegroot.net/de/datenschutzerkl%C3%A4rung/</guid>
+      <description>Die personenbezogenen Daten, die Sie auf der Website eingeben, werden zu dem Zweck verwendet, für den Sie die angeforderten Informationen zur Verfügung gestellt haben. Diese Informationen werden nicht an Dritte weitergegeben. Darüber hinaus verwendet Panel Insight B.V. Die Daten zur Verbesserung der Service für Sie. Wenn Sie irgendwelche Einwendungen haben, können Sie dies über uns melden. Ihre Daten werden sofort aus der Datei gelöscht. Ihr Besuch auf dieser Website erfolgt durch Cookies.</description>
     </item>
     
   </channel>

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qanda</title>
+    <title>Home on Qanda</title>
     <link>https://qanda.alexdegroot.net/</link>
-    <description>Recent content on Qanda</description>
+    <description>Recent content in Home on Qanda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2017 16:57:49 +0200</lastBuildDate>
     
 	<atom:link href="https://qanda.alexdegroot.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Statement</title>
+      <link>https://qanda.alexdegroot.net/privacy/</link>
+      <pubDate>Sun, 13 Aug 2017 16:57:49 +0200</pubDate>
+      
+      <guid>https://qanda.alexdegroot.net/privacy/</guid>
+      <description>The personal information you enter on the site will be used for the purpose for which you provided the requested information. This information will not be given to third parties. In addition, Panel Insight uses B.V. The data to improve service to you. If you have any objections, you can report this to us via. Your data will be deleted immediately from the file. Your visit to this website is maintained by means of cookies.</description>
+    </item>
     
     <item>
       <title>Terms and Conditions</title>

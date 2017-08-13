@@ -28,8 +28,53 @@
   </url>
   
   <url>
-    <loc>https://qanda.alexdegroot.net/nl/nl/</loc>
+    <loc>https://qanda.alexdegroot.net/nl/</loc>
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qanda.alexdegroot.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://qanda.alexdegroot.net/nl/privacyverklaring/</loc>
+    <lastmod>2017-08-13T16:57:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qanda.alexdegroot.net/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/datenschutzerkl%C3%A4rung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/privacyverklaring/"
+                />
   </url>
   
   <url>
@@ -58,29 +103,9 @@
   </url>
   
   <url>
-    <loc>https://qanda.alexdegroot.net/nl/</loc>
+    <loc>https://qanda.alexdegroot.net/nl/nl/</loc>
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qanda.alexdegroot.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/"
-                />
   </url>
   
   <url>

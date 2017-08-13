@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qanda FR</title>
+    <title>Home on Qanda FR</title>
     <link>https://qanda.alexdegroot.net/fr/</link>
-    <description>Recent content on Qanda FR</description>
+    <description>Recent content in Home on Qanda FR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2017 16:57:49 +0200</lastBuildDate>
@@ -22,6 +22,15 @@ Cette recherche est une collaboration entre: Q &amp;amp; A Research &amp;amp; Co
 Opinion Surveyors est une marque Insight Panel BV, enregistrée à la Chambre sous le numéro 56080239 de commerce.
 Q &amp;amp; A Research &amp;amp; Consultancy enregistrés à la Chambre de Commerce sous le numéro 65029496
 Dans une étude, vous recevrez vos billets de temps (pas toujours) pour votre participation. Ces billets sont offerts par le Q &amp;amp; A panneau.</description>
+    </item>
+    
+    <item>
+      <title>Déclaration de confidentialité</title>
+      <link>https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/</link>
+      <pubDate>Sun, 13 Aug 2017 16:57:49 +0200</pubDate>
+      
+      <guid>https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/</guid>
+      <description>Les informations personnelles que vous entrez sur le site seront utilisées aux fins pour lesquelles vous avez fourni les informations demandées. Cette information ne sera pas donnée à des tiers. De plus, Panel Insight utilise B.V. Les données pour améliorer le service à vous. Si vous avez des objections, vous pouvez nous le signaler par l&amp;rsquo;intermédiaire de. Vos données seront supprimées immédiatement du fichier. Votre visite sur ce site est maintenue au moyen de cookies.</description>
     </item>
     
   </channel>

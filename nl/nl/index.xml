@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Qanda NL</title>
+    <title>Nls on Qanda NL</title>
     <link>https://qanda.alexdegroot.net/nl/nl/</link>
-    <description>Recent content in Home on Qanda NL</description>
+    <description>Recent content in Nls on Qanda NL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Aug 2017 16:57:49 +0200</lastBuildDate>
@@ -22,6 +22,15 @@ Opiniemeters is een handelsnaam van Panel Inzicht B.V., ingeschreven bij de kame
 Q&amp;amp;A research &amp;amp; consultancy ingeschreven bij de kamer van koophandel onder nummer 65029496
 Bij een onderzoek ontvangt u voor uw tijd tickets (niet altijd) voor uw deelname. Deze tickets worden aangeboden door het Q&amp;amp;A panel.
 Een overzicht van de door u ontvangen tickets zijn dan ook in uw persoonlijk account overzicht terug te vinden.</description>
+    </item>
+    
+    <item>
+      <title>Privacyverklaring</title>
+      <link>https://qanda.alexdegroot.net/nl/privacyverklaring/</link>
+      <pubDate>Sun, 13 Aug 2017 16:57:49 +0200</pubDate>
+      
+      <guid>https://qanda.alexdegroot.net/nl/privacyverklaring/</guid>
+      <description>De persoonlijke gegevens die u op de site invult, zullen voor het doel waarvoor u de gevraagde informatie heeft gegeven, worden gebruikt. Deze gegevens zullen niet aan derden worden gegeven. Daarnaast gebruikt Panel Inzicht B.V. de gegevens om de dienstverlening naar u toe te verbeteren. Als u hiertegen bezwaar heeft, kunt u dat aan ons melden via . Uw gegevens worden dan onmiddellijk uit het bestand verwijderd. Uw bezoek aan deze website wordt bijgehouden door middel van cookies.</description>
     </item>
     
   </channel>
