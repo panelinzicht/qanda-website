@@ -37,13 +37,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/privacyverklaring/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/privacyverklaring/"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -57,8 +57,8 @@
     <lastmod>2017-08-13T16:57:49+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/gesch%C3%A4ftsbedingungen/"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/voorwaarden/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,8 +67,8 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/voorwaarden/"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/gesch%C3%A4ftsbedingungen/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -82,6 +82,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://qanda.alexdegroot.net/de/categories/"
                 />
@@ -89,11 +94,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://qanda.alexdegroot.net/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -113,6 +113,11 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="de"
                 href="https://qanda.alexdegroot.net/de/tags/"
                 />
@@ -120,11 +125,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://qanda.alexdegroot.net/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"

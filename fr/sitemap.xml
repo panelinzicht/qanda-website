@@ -12,43 +12,18 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/gesch%C3%A4ftsbedingungen/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="nl"
                 href="https://qanda.alexdegroot.net/nl/voorwaarden/"
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/gesch%C3%A4ftsbedingungen/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://qanda.alexdegroot.net/fr/termes-et-conditions/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/</loc>
-    <lastmod>2017-08-13T16:57:49+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://qanda.alexdegroot.net/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/datenschutzerkl%C3%A4rung/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/privacyverklaring/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/"
                 />
   </url>
   
@@ -78,6 +53,31 @@
   </url>
   
   <url>
+    <loc>https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/</loc>
+    <lastmod>2017-08-13T16:57:49+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qanda.alexdegroot.net/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/datenschutzerkl%C3%A4rung/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/privacyverklaring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://qanda.alexdegroot.net/fr/d%C3%A9claration-de-confidentialit%C3%A9/"
+                />
+  </url>
+  
+  <url>
     <loc>https://qanda.alexdegroot.net/fr/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -87,13 +87,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/categories/"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/categories/"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -118,13 +118,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="https://qanda.alexdegroot.net/de/tags/"
+                hreflang="nl"
+                href="https://qanda.alexdegroot.net/nl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="nl"
-                href="https://qanda.alexdegroot.net/nl/tags/"
+                hreflang="de"
+                href="https://qanda.alexdegroot.net/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

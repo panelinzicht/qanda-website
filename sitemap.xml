@@ -9,6 +9,13 @@
 	</sitemap>
 	
 	<sitemap>
+	   	<loc>https://qanda.alexdegroot.net/nl/sitemap.xml</loc>
+		
+	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
 	   	<loc>https://qanda.alexdegroot.net/de/sitemap.xml</loc>
 		
 	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
@@ -17,13 +24,6 @@
 	
 	<sitemap>
 	   	<loc>https://qanda.alexdegroot.net/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://qanda.alexdegroot.net/nl/sitemap.xml</loc>
 		
 	   	<lastmod>2017-08-13T16:57:49+02:00</lastmod>
 		
